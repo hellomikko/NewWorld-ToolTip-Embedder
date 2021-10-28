@@ -1,2 +1,2 @@
 # NewWorld-ToolTip-Embedder
-Created with CodeSandbox
+Created with and maintained on CodeSandbox
